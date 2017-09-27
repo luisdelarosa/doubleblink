@@ -1,7 +1,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "blink",
+    name: "doubleblink",
     dependencies: [
         .Package(url: "https://github.com/uraimo/SwiftyGPIO.git", majorVersion: 0),
     ]
